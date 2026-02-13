@@ -1,6 +1,4 @@
 /* Basic Reset */
-* { margin:0; padding:0; box-sizing:border-box; font-family: 'Segoe UI', sans-serif; }
-body { line-height:1.6; color:#1e293b; background:#f4f6f9; }
 
 /* Container */
 .container { width:90%; max-width:1200px; margin:0 auto; }
